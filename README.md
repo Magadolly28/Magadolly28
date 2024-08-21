@@ -1,6 +1,6 @@
 ### Bem Vindo a meu perfil 💜
 
-Meu nome é **Michelle Formicoli**
+Meu nome é **Emanuela de Andrade Giacon**
 
 -Estou estudando no .[Alura]. (htpps://www.alura.com.br)
 -Estou desenvolvendo a linguagem javaScript
